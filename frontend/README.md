@@ -29,8 +29,8 @@ npm install
 npm run dev
 
 Default Admin
-Email: admin@gmail.com
-Password: admin123
+Email: harini@gmail.com
+Password: harini09
 
 API
 Auth → /api/auth
